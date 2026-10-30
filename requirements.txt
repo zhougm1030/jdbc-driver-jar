@@ -1,2 +1,2 @@
-tree-sitter-java
-tree-sitter
+tree-sitter-java==0.23.5
+tree-sitter==0.25.2
