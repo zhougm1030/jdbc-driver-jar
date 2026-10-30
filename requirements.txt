@@ -1,1 +1,2 @@
-javalang
+tree-sitter-java
+tree-sitter
